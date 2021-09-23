@@ -131,6 +131,7 @@ USE_TZ = True
 
 SASS_PRECISION = 8
 
+
 STATIC_URL = '/static/'
 
 STATICFILES_FINDERS = [
