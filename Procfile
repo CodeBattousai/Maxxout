@@ -1,1 +1,1 @@
-web: gunicorn maxxout.wsgi --log-file -
+web: gunicorn maxxout.wsgi
